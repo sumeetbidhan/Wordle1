@@ -1,0 +1,13 @@
+# Set JavaScript files as text
+*.js text
+
+# Set CSS files as text
+*.css text
+
+# Set image files as binary
+*.png binary
+*.jpg binary
+
+# Set line-ending conversions for specific files
+script.js text eol=lf
+styles.css text eol=crlf
